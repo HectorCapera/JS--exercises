@@ -1,0 +1,41 @@
+
+body{
+    background-color: snow;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30em;
+}
+.containerItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    
+}
+.button-style{
+    background-color: #1E1E20;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 10px;
+    cursor: pointer;
+}
+#messageContainer{
+    font-size: 180%;
+    font-weight: 800;
+}
+#miImagen{
+    width: 10%;
+
+    
+}
+
