@@ -1,0 +1,19 @@
+.bg-custom {
+    background-color: #c2bebe; 
+}
+
+.container{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: aqua;
+}
+
+.saludo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
