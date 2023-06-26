@@ -1,0 +1,20 @@
+.flecha{
+    font-size: 4em;
+    width: 200px;
+    height: 200px;
+}
+.porcentaje{
+    font-size: 2em;
+
+} 
+.boton1{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    background-image: url(https://www.html6.es/img/fondoBoton.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    text-align: center;
+    user-select: none;
+}
