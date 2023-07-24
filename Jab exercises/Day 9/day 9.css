@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 5px;
+}
+button {
+  border-radius: 50px;
+  border: none;
+  color: aliceblue;
+  padding: 5px 10px;
+  background-color: rgb(105, 170, 231);
+}
+input {
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(231, 231, 231);
+}
+input:focus {
+  outline: none;
+}
